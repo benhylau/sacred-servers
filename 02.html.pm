@@ -18,6 +18,6 @@ stopping at when travelling, when an item seems to "call" to me or when one
 feels strangely "off". It's as if the things are filled with some energy of the
 people before, a loop of time lingering in the space. It's that impulse that
 comes whenever I move to a new home, no matter how bare, clean, and blank the
-new space may be, to clean it all before I move any of our own items in. What
-are we cleaning? What invisible thing needs to be moved to let our own invisible
-thing in?
+new space may be, to clean it all before we bring any of our own items in. What
+are we cleaning? What invisible thing do we not want mingling with our own
+invisible things?
