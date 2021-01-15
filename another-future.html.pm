@@ -5,17 +5,17 @@ Another Future
 }
 
 What would happen if we gave as much as we do now, all our vulnerable and
-intention-filled requests, but to servers that we held? Or if we passed it
-directly to one another, amplifying the power ourselves?
+intention-filled requests, but to servers that we owned? Or if we passed our
+thoughts directly to one another, amplifying the energy beneath our fingers?
 
 What would happen if we were upfront with the potential energy, the inarticulate
 sacred power, that can come from voicing our lives and dreams, and storing the
-echoes of this voice. But now it was stored in networks designed to respect,
-amply, and give back to this power?
+echoes of this voice...but now it was stored in networks designed to respect,
+resonate, and give back to this power?
 
 There is beautiful possibility in decentralized tools because they can be new,
 and local, and small. We can create community networks that grow stronger with
-each new community member, stronger in practical and magical ways, tangible and
+each new member, stronger in practical and magical ways, tangible and
 intangible. We can have sun-soaked servers, that can be plentiful and small,
 held in powerful spots of nature not because of what can be extracted, but
 because of what resonates there and what we know can be given back.
