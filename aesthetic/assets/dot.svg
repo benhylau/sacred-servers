@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     height="100%"
+     viewBox="0 0 10 20"
+     >
+ <!-- <defs><pattern id="dots" x="0" y="0" width="0.05" height="0.05"> -->
+ <!--        <circle r="0.05" cx="0.5" cy="0.5" fill="#ccc"/></pattern></defs> -->
+ <!--        <path d="M0,0h20v20h-20z" fill="#eee"/> -->
+ <!--        <path d="M0.5,0.5h20v20h-20z" fill="url('#dots')"/> -->
+ <!--        <path stroke="blue" stroke-opacity="0.5" stroke-width="0.05" fill="none" -->
+ <!--          d="M-1,0h6v-0.5m0,0.5h5v-0.5m0,0.5h5v-0.5m0,0.5h5v-0.5 -->
+ <!--          M0,-1v6h-0.5m0.5,0v5h-0.5m0.5,0v5h-0.5m0.5,0v5h-0.5"/> -->
+ <!--        <g font-family="monospace" font-size="0.5px" fill="gray"> -->
+ <!--        <g text-anchor="middle"> -->
+ <!--        <text x="5" y="-1">5</text><text x="10" y="-1">10</text> -->
+ <!--        <text x="15" y="-1">15</text><text x="20" y="-1">20</text></g> -->
+ <!--        <text y="5.1" x="-1.5">5</text><text y="10.1" x="-1.5">10</text> -->
+ <!--        <text y="15.1" x="-1.5">15</text><text y="20.15" x="-1.5">20</text></g> -->
+  <!-- ✏️ your drawing here 🖌 -->
+  <circle r="1"
+          cx="5"
+          cy="16"/>
+</svg>

@@ -1,0 +1,14 @@
+title: "Sacred Servers"
+subtitle: An essay for Compost Magazine
+description: An Essay for Compost Magazine
+published: 14-01-2020
+collections:
+  - technology
+  - magic
+  - decentralized
+  - spirituality
+aesthetic:
+  colour:
+    background: hsl(30, 60%, 90%);
+    text: hsl(60, 50.0%, 10.0%);
+    accent: cornflowerblue; # accent is also used as book cover on front page

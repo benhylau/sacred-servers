@@ -1,0 +1,13 @@
+:root {
+    --colour_bg: hsl(30, 60%, 90%);
+    --colour_body: hsl(60, 50.0%, 10.0%);
+    --colour_accent: dodgerblue;
+    --serif: 'Charter';
+    --mono: 'Fira Mono';
+    --font_headings: var(--serif);
+    --font_body: var(--serif);
+    --font_pre: var(--mono);
+    --point-size: 24px;
+    --line-spacing: 138%;
+    --line-length: 28em;
+}
