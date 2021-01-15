@@ -1,8 +1,8 @@
 #lang pollen
 
-◊define-meta[Title]{ Time Online }
+◊define-meta[title]{ Time Online }
 
-Today, I don't spend as much time, travelling to sacred wells in distant places.
+Today, I don't travel too much to sacred wells in distant places.
 I spend a lot of time online. Too much time. It's a place profoundly unquiet, a
 pummeling noise and a rush of information that leaves me feeling both hyped up
 and melancholy. And it's a place that is hard to stop visiting.
@@ -43,8 +43,7 @@ give it up."
 
 "Oh, that's great, have you seen this?"
 
---
 
-We know it's bad, and still osmething holds us. Something beyond its addictive
+We know it's bad, and still something holds us. Something beyond its addictive
 design--like a personal attachment we're hesitant to let go of. What have we
 left clinging to these spaces?
