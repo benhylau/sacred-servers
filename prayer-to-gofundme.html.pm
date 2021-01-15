@@ -15,8 +15,8 @@ along with our voice? What changes when the words are typed instead of said?
 Where do these words go?
 
 In talking of the offline world, the question remains rhetoric, or at least the
-answer is just beyond our reach. In the online world, you can give a simple,
-though, incomplete answer.
+answer is just beyond our reach.
 
-It is easy to know where the words go, when typed instead of spoken: they go to
+In the online world, you can give a direct, though, incomplete answer. It is
+easy to know where the words go, when typed instead of spoken: they go to
 servers.
