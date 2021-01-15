@@ -27,15 +27,15 @@ say and do online have a profound effect on our physical lives, and the
 infrastructural needs have a profound effect on the natural world in which
 cyberspace resides.
 
-It is a compelling illusion to declare this a world with no matter, only Mind,
-but it takes a whole lot of matter to maintain the illusion.
+It is a compelling illusion to declare this a world with no matter, but it takes
+a whole lot of matter to maintain the illusion.
 
-For a while it was a useful, semantic distinction for this internet place you
-visited from the world in which you resided. That you were a different person in
-"cyberspace" than in "meatspace". But the distinction makes little sense now,
-cyberspace is more a nostalgic signifier than useful term, and "meatspace" is
-really just for people who like saying "meat" out loud.
+It was once a useful distinction for this place on the internet to be separate
+from your place ion the world That you were a different person in "cyberspace"
+than in "meatspace". But the distinction makes little sense now, cyberspace is
+more a nostalgic signifier than useful term, and "meatspace" is really just for
+people who like saying "meat" out loud.
 
-There is no separate space. We are all in it together, overlaid and coexisitent.
+There is no separation. We are all in it together, overlaid and coexisitent.
 And, from my view, to declare a space of ideas and the mind to be necessarily
-separate from the world, is to deny the world the aliveness, the agency, it has.
+separate from the world, is to deny the world the aliveness and agency it holds.
