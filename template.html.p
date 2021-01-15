@@ -44,6 +44,9 @@
         </ul>
       </nav>
     </main>
+    <footer>
+      <a href='https://git.sr.ht/~zim/sacred-servers' target='_blank" rel='noreferrer noopener'>source</a>
+    </footer>
     <!-- <footer class="rainbow"> -->
     <!--   <div class="paper"> -->
     <!--     <p>This is “◊|title|: ◊|subtitle|”</p> -->
